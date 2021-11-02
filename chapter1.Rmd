@@ -1,7 +1,9 @@
 
 # About the project
 
-*Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you should use R Markdown syntax.*
+
+# My notes for first week  
+I'm not entirely sure what I am doing. This has been really tough starter even though I'm a bit *familiar* with R. I'm hoping that when we get to  the statistical stuff I'll feel more at ease with all this. I am not sure where I should add the GitHub link so I'll just add it here: [My GitHub repository](https://github.com/kissukka/IODS-project)
 
 ```{r}
 # This is a so-called "R chunk" where you can write R code.
@@ -9,5 +11,4 @@
 date()
 
 ```
-The text continues here.
-
+ 
