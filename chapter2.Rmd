@@ -35,7 +35,11 @@ findings is below.
 
 ## Interpretation of findings
 
-While deep and surface approaches to learning were not significantly associated with exam points, student's attitude to statistic was. Multiple R-squared was 0.19, indicating that almost 20% of the variation in exam points can be explained by attitude. 
+While deep and surface approaches to learning were not significantly associated with exam points, student's attitude to statistic was. Multiple R-squared was 0.19, indicating that almost 20% of the variation in exam points can be explained by attitude to statistics. 
 
 ## Diagnostic plots
+
+![Plots](data/plots.png)
+
+It seems that the constant variance assumption is ok, as there seems to be no apparent pattern in the scatterplot but residual points are random (Residuals vs. Fitted plot). It seems that the errors of the model are reasonably normally distributed, although there are some deviations both in the beginning and in the end (Normal Q-Q plot). It seems that there are no outliers that have considerable influence on the findings, as no single observation stands out in the plot (Residuals vs. Leverage plot).
 
