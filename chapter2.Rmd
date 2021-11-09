@@ -11,4 +11,11 @@ date()
 ```
 
 ## Description of the data
-The data includes altogether 7 variables: gender, age, and exam points in addition to sum variables for attitude towards statistics, deep approach for learning, surface approach for learning and strategic approach for learning. There is altogether 166 observations.
+The data includes altogether 7 variables: gender, age, and exam points in addition to sum variables for attitude towards statistics, deep approach for learning, surface approach for learning and strategic approach for learning. There is altogether 166 observations. 
+
+## Graphical overview of the data  
+
+![Graphical overview](data/graph_overview.png)  
+
+The sum variables (attitude, deep, surface, stra) are relatively normally distributed for a social sciences data. The age is quite skewed, there are much more younger than older students. Furthermore, there are more female students compared to males. The strongest correlation is between the exam points and attitude.  
+

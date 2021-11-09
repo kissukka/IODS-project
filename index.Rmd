@@ -1,6 +1,6 @@
 ---
 title: "IODS course project"
-author: "Katri Kleemola"
+author: "libraKatri Kleemola"
 output:
   html_document:
     theme: cosmo
