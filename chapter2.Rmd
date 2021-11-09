@@ -10,4 +10,5 @@
 date()
 ```
 
-Here we go again...
+## Description of the data
+The data includes altogether 7 variables: gender, age, and exam points in addition to sum variables for attitude towards statistics, deep approach for learning, surface approach for learning and strategic approach for learning. There is altogether 166 observations.
