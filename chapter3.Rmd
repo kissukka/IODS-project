@@ -4,5 +4,11 @@
 ```{r}
 date()
 ```
-##
+##Preparations
 
+This is the chapter3.rmd file that shows on my diary page.
+I have completed the data wrangling so I have the dataset in my R.
+
+## My hypothesis
+
+For the 
